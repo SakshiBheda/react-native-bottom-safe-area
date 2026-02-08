@@ -40,14 +40,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/user/react-native-bottom-safe-area.git"
+    "url": "git+https://github.com/SakshiBheda/react-native-bottom-safe-area.git"
   },
-  "author": "Sakshi Bheda <sakshibheda@example.com> (https://github.com/sakshibheda)",
-  "license": "MIT",
+  "author": "Sakshi Bheda <sakshibheda.dev@gmail.com> (https://github.com/SakshiBheda)",
   "bugs": {
-    "url": "https://github.com/user/react-native-bottom-safe-area/issues"
+    "url": "https://github.com/SakshiBheda/react-native-bottom-safe-area/issues"
   },
-  "homepage": "https://github.com/user/react-native-bottom-safe-area#readme",
+  "homepage": "https://github.com/SakshiBheda/react-native-bottom-safe-area#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
