@@ -2,6 +2,7 @@
   "name": "react-native-bottom-safe-area",
   "version": "1.0.1",
   "description": "A reusable BottomSafeArea component that handles safe area insets and keyboard avoidance automatically.",
+  "license": "MIT",
   "main": "lib/commonjs/index.js",
   "module": "lib/module/index.js",
   "types": "lib/typescript/index.d.ts",
